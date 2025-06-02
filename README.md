@@ -74,6 +74,7 @@ Modify leg length ranges and friction coefficients in the environment code or XM
 - Gymnasium, WandB, Matplotlib, MoviePy, Seaborn
 
 ## Notes
+- Since the Models are too large, they are stored in https://drive.google.com/drive/folders/1h1I1cf3UUwV8ju3b0wtpd9JeQRBACcgj?usp=sharing
 - Temporary MuJoCo XMLs are deleted after being loaded.
 - Training and evaluation scripts automatically use the correct environment wrappers.
 
